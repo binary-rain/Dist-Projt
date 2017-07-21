@@ -1,0 +1,6 @@
+Mar 16, 2015 11:17:56 PM socketclient.SocketClient main
+INFO: IP Address is 127.0.0.1
+Mar 16, 2015 11:17:59 PM socketclient.SocketClient main
+INFO: User Message is hello
+Mar 16, 2015 11:17:59 PM socketclient.SocketClient main
+INFO: Answer is I don't know you
